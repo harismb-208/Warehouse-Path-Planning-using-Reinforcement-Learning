@@ -53,6 +53,6 @@ Here’s the visualization of the optimal warehouse path generated using Value I
 
 ## ✨ Author
 Developed by **Mohamed Haris**  
-[GitHub Profile](https://github.com/<harismb-208>)
+[GitHub Profile](https://github.com/harismb-208)
 
 
