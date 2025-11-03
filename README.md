@@ -28,6 +28,8 @@ Here’s the visualization of the optimal warehouse path generated using Value I
 
 ![Warehouse Path Visualization](images/policy_iteration_-_optimal_value_function_and_policy.png)
 
+![Warehouse Path Visualization](images/value_iteration_-_optimal_value_function_and_policy.png)
+
 ---
 
 ## 🧠 Technologies Used
